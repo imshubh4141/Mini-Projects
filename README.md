@@ -1,1 +1,1 @@
-#Mini Projects
+These are all mini projects made by me.
