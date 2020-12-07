@@ -1,2 +1,1 @@
-# RPS-Game
-Rock Paper Scissors
+#Mini Projects
